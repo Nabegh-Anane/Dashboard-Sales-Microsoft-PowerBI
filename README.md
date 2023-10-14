@@ -6,7 +6,7 @@ Generate an insightful Sales Report with Power BI, showcasing key revenue metric
 
 ![App Screenshot](https://github.com/Nabegh-Anane/Dashboard-Sales-Microsoft-PowerBI/blob/main/Affiche.png?raw=true)
 
-###Contact :
+### Contact :
 Linkedln : https://www.linkedin.com/in/nabegh-anane/
 Portfolio : https://nabeghanane.me/
 Email : career@nabeghanane.me
